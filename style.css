@@ -1,0 +1,17 @@
+#container{
+    display: flex;
+    height: 200px;
+    align-items: flex-end;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bar{
+    width: 10px;
+    margin: 1px;
+    background-color: black;
+}
